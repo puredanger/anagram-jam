@@ -28,7 +28,7 @@ You may find that pre-processing the word list (either in memory or on disk) wil
 
 ## Part 2 - Matching Multiple Words
 
-Given the same file of known develop a program that takes a phrase (words separated with spaces) and finds a set of anagrams in the word list. 
+Given the same file of known words, develop a program that takes a phrase (words separated with spaces) and finds a set of anagrams in the word list. 
 
 For example: given the word "functional", you might find anagrams like:
 
